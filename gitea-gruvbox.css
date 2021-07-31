@@ -771,3 +771,7 @@ img[src$="/img/matrix.svg"] {
 ::-webkit-scrollbar-corner {
     background: transparent;
 }
+
+.repository #commits-table td.sha .sha.label.isSigned.isVerified:hover, .repository #repo-files-table .sha.label.isSigned.isVerified:hover, .repository #rev-list .sha.label.isSigned.isVerified:hover, .repository .timeline-item.commits-list .singular-commit .sha.label.isSigned.isVerified:hover {
+    background: var(--color-primary-alpha-30) !important;
+}
