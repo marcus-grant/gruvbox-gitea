@@ -80,7 +80,7 @@
 	--color-text-light-3: #a89984;
 	--color-footer: #3c3836;
 	--color-timeline: #32302f;
-	--color-input-text: var(--color-text-light-3);
+	--color-input-text: #ebdbb2;
 	--color-input-background: #282828;
 	--color-input-border: #3c3836;
 	--color-input-border-hover: #504945;
@@ -256,7 +256,7 @@
 }
 
 .form .help {
-    color: #7f8699
+    color: var(--color-text-light-3);
 }
 
 .ui .text.light.grey {
@@ -555,7 +555,7 @@ a.blob-excerpt {
 }
 
 .ui.modal>.content {
-    background: #383c4a
+    background: var(--color-menu);
 }
 
 .minicolors-panel {
@@ -774,4 +774,10 @@ img[src$="/img/matrix.svg"] {
 
 .repository #commits-table td.sha .sha.label.isSigned.isVerified:hover, .repository #repo-files-table .sha.label.isSigned.isVerified:hover, .repository #rev-list .sha.label.isSigned.isVerified:hover, .repository .timeline-item.commits-list .singular-commit .sha.label.isSigned.isVerified:hover {
     background: var(--color-primary-alpha-30) !important;
+}
+
+.ui.green.button, .ui.green.buttons .button {
+    background-color: inherit;
+    color: inherit;
+    background-image: none;
 }
