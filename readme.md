@@ -17,7 +17,7 @@ git clone <remote here>
 ```
 Copy CSS files into Gitea's customizations directory, see [Gitea's documentation](https://docs.gitea.io/en-us/customizing-gitea) for more information.
 ```bash
-cp gitea-gruvbox.css $GITEA_CUSTOM/public/css/
+cp theme-gitea-gruvbox.css $GITEA_CUSTOM/public/css/
 ```
 Modify your Gitea configuration to use the theme.
 ```bash

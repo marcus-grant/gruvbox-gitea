@@ -79,8 +79,8 @@
 	--color-text-light-2: #bdae93;
 	--color-text-light-3: #a89984;
 	--color-footer: #3c3836;
-	--color-timeline: #4c525e;
-	--color-input-text: #d5dbe6;
+	--color-timeline: #32302f;
+	--color-input-text: var(--color-text-light-3);
 	--color-input-background: #282828;
 	--color-input-border: #3c3836;
 	--color-input-border-hover: #504945;
@@ -93,7 +93,7 @@
 	--color-card: #32302f;
 	--color-markdown-table-row: #ffffff06;
 	--color-markdown-code-block: #32302f;
-	--color-button: #353846;
+	--color-button: #3c3836;
 	--color-code-bg: #32302f;
 	--color-shadow: #00000060;
 	--color-secondary-bg: #32302f;
@@ -748,7 +748,7 @@ img[src$="/img/matrix.svg"] {
 
 * {
     scrollbar-width: thin;
-    scrollbar-color: var(--color-primary) transparent;
+    scrollbar-color: #7c6f64 transparent;
 }
 
 ::-webkit-scrollbar {
