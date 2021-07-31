@@ -6,8 +6,6 @@
 
 Gitea CSS theme for visual similarity to the [Gruvbox Vim theme](https://github.com/morhetz/gruvbox).
 
-This theme will only modify colors, it will not modify page layout and other styles.
-
 See Usage for installation and configuration instructions and ~~Sample for a preview screenshot~~ (screenshots pending).
 
 ## Usage
