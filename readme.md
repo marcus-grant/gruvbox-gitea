@@ -6,6 +6,8 @@
 
 Gitea CSS theme for visual similarity to the [Gruvbox Vim theme](https://github.com/morhetz/gruvbox).
 
+Code-block syntax highlighting was adapted from [daveyarwood/gruvbox-pygments](https://github.com/daveyarwood/gruvbox-pygments).
+
 See Usage for installation and configuration instructions and ~~Sample for a preview screenshot~~ (screenshots pending).
 
 ## Usage
