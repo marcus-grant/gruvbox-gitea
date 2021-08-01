@@ -13,7 +13,11 @@ See Usage for installation and configuration instructions and ~~Sample for a pre
 ## Usage
 Clone repository with `git`.
 ```bash
-git clone <remote here>
+git clone https://github.com/perpetualCreations/gruvbox-gitea.git
+```
+Alternatively, use the PROVIDENCE Git remote.
+```bash
+git clone https://dreamerslegacy.xyz/git/perpetualCreations/gruvbox-gitea.git
 ```
 Copy CSS files into Gitea's customizations directory, see [Gitea's documentation](https://docs.gitea.io/en-us/customizing-gitea) for more information.
 ```bash
