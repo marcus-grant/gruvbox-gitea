@@ -8,7 +8,7 @@ Gitea CSS theme for visual similarity to the [Gruvbox Vim theme](https://github.
 
 Code-block syntax highlighting was adapted from [daveyarwood/gruvbox-pygments](https://github.com/daveyarwood/gruvbox-pygments).
 
-See Usage for installation and configuration instructions and ~~Sample for a preview screenshot~~ (screenshots pending).
+See Usage for installation and configuration instructions and [dreamerslegacy.xyz's Gitea instance](https://dreamerslegacy.xyz/git/) for a demo.
 
 ## Usage
 Clone repository with `git`.
