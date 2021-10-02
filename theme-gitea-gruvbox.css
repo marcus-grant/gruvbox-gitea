@@ -823,3 +823,15 @@ img[src$="/img/matrix.svg"] {
 .current-line, .current-line-both {
     background-color: #504945 !important;
 }
+
+.codicon.codicon-symbol-text {
+    color: #ebdbb2 !important;
+}
+
+.monaco-list.list_id_1 .monaco-list-row.focused {
+	background-color: #665c54 !important;
+}
+
+.monaco-editor .suggest-widget .monaco-list .monaco-list-row .monaco-highlighted-label .highlight {
+	color: #458588 !important;
+}
