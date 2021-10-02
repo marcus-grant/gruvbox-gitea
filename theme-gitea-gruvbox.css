@@ -781,3 +781,43 @@ img[src$="/img/matrix.svg"] {
     color: inherit;
     background-image: none;
 }
+
+.monaco-editor .line-numbers {
+    color: var(--color-input-text);
+}
+
+.mtk1 { color: #ebdbb2; }
+.mtk2 { color: #fbf1c7; }
+.mtk3 { color: #a89984; }
+.mtk4 { color: #fb4934; }
+.mtk5 { color: #83a598; }
+.mtk6 { color: #458588; }
+.mtk7 { color: #8ec07c; }
+.mtk8 { color: #689d6a; }
+.mtk9 { color: #cc241d; }
+.mtk10 { color: #d5c4a1; }
+.mtk11 { color: #cc241d; }
+.mtk12 { color: #fe8019; }
+.mtk13 { color: #b16286; }
+.mtk14 { color: #9d0006; }
+.mtk15 { color: #fb4934; }
+.mtk16 { color: #8f3f71; }
+.mtk17 { color: #bdae93; }
+.mtk18 { color: #7c6f64; }
+.mtk19 { color: #d3869b; }
+.mtk20 { color: #cc241d; }
+.mtk21 { color: #83a598; }
+.mtk22 { color: #689d6a; }
+.mtk23 { color: #076678; }
+.mtk24 { color: #83a598; }
+.mtki { font-style: italic; }
+.mtkb { font-weight: bold; }
+.mtku { text-decoration: underline; text-underline-position: under; }
+
+.monaco-editor .selected-text {
+    background-color: #504945 !important;
+}
+
+.current-line, .current-line-both {
+    background-color: #504945 !important;
+}
